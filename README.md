@@ -1,12 +1,12 @@
 # Software-Project-CS301-
 4th sem project
 
-Team Contribution:
+# Team Contribution:
 
-# Tejas S (21BCS0125) - ML(Stock prediction, buy/sell ratio)
-# Samarth Shinde (21BCS110) - Backend ml(opinion mining)
-# Aditya Patil (21BCS081) - Front End, Prototype(figma-design)
-# Yadukrishna PB (21BCS136) - Front End, PPT
+1) Tejas S (21BCS0125) - ML(Stock prediction, buy/sell ratio)
+2) Samarth Shinde (21BCS110) - Backend ml(opinion mining)
+3) Aditya Patil (21BCS081) - Front End, Prototype(figma-design)
+4) Yadukrishna PB (21BCS136) - Front End, PPT
 
 Project GitHub Link: https://github.com/adityapatil47/Software-Project-CS301-
 
